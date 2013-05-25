@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Iconos">
+    <file>icons/metodos.png</file>
+  </qresource>
+  <qresource prefix="Imagenes">
+    <file>images/formula.png</file>
+    <file>images/Logo_ITIZ.png</file>
+  </qresource>
+</RCC>
